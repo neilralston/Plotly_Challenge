@@ -1,7 +1,5 @@
 #  Plotly & Belly Button Biodiversity (Module 12)
 
-![banner](images (1).JPG)
-
 [Link to app.js code](charts.js)
 
 [Link to index.html code](index.html)
