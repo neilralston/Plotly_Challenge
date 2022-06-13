@@ -27,8 +27,11 @@ Using JavaScript, Plotly, and HTML coding, volunteers can use the dashboard to a
 ## Results
 
 Deliverable 1: Create a Horizontal Bar Chart
+
 Deliverable 2: Create a Bubble Chart
+
 Deliverable 3: Create a Gauge Chart
+
 Deliverable 4: Customize the Dashboard
 
 Customized the dashboard with the following Bootstrap elements:
