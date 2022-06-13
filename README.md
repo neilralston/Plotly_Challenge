@@ -6,7 +6,7 @@
 
 [Link to index.html code](index.html)
 
-[Link to GitHub page] (https://neilralston.github.io/Plotly_Challenge/)
+[Link to GitHub page](https://neilralston.github.io/Plotly_Challenge/)
 
 ## Plotly & Belly Button Biodiversity
 
